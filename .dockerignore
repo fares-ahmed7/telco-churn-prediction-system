@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+
+.ipynb_checkpoints/
+
+.git/
+.gitignore
+
+venv/
+.vscode/
+
+notebooks/
+
+.env
+
+data/
